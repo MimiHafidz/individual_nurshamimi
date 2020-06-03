@@ -1,0 +1,41 @@
+body { 
+    background-color: antiquewhite;
+}
+
+.w3-myfont {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.myimage {
+	background-color: antiquewhite;
+	background-image: url(../img/mimi.png.png);
+	background-repeat: no-repeat;
+	height: 650px;
+	background-position: right;
+	padding: 0px;
+	color: #fff;
+}
+
+.section img {
+	width: 100%;
+}
+
+.section p {
+	font-size: 17px;
+	padding: 0px 150px;
+}
+
+.explanation {
+	padding: 100px;
+}
+
+.explanation img {
+	width: 30%;
+}
+
+.explanation h1 {
+    font-size: 20px;
+}
+
+
+
